@@ -385,7 +385,7 @@ The integration of BERT-based semantic matching significantly improves candidate
 ---
 **Complete UI Demonstration and Screenshots:**
 
-[View ARSS_UI_Screenshots.pdf](Projects_Screenshots.pdf)
+[View Projects_Screenshots.pdf](Projects_Screenshots.pdf)
 
 ---
 # Author
