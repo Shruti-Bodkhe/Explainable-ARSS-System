@@ -383,7 +383,11 @@ The ARSS system successfully:
 The integration of BERT-based semantic matching significantly improves candidate-job relevance assessment compared to traditional keyword matching approaches.
 
 ---
+**Complete UI Demonstration and Screenshots:**
 
+[View ARSS_UI_Screenshots.pdf](Projects_Screenshots.pdf)
+
+---
 # Author
 
 Shruti Bodkhe
