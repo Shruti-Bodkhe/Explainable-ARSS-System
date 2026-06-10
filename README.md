@@ -384,7 +384,7 @@ The integration of BERT-based semantic matching significantly improves candidate
 
 ---
 
-# Authors
+# Author
 
 Shruti Bodkhe
 
@@ -396,8 +396,3 @@ MIT School of Computing, Pune
 
 ---
 
-# License
-
-This project is developed for academic and research purposes.
-
-Copyright © 2026. All Rights Reserved.
