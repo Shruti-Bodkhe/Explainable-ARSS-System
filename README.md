@@ -388,9 +388,12 @@ The integration of BERT-based semantic matching significantly improves candidate
 [View Projects_Screenshots.pdf](Projects_Screenshots.pdf)
 
 ---
-# Author
+# Team Members
 
 Shruti Bodkhe
+Mayuri Jagtap
+Shreya Madne
+Jayant Deshmukh
 
 Bachelor of Technology (Computer Science Engineering)
 
