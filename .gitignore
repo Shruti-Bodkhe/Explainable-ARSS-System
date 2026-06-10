@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+arss_env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Generated Results
+results/*.csv
+
+# Evaluation
+ground_truth.csv
