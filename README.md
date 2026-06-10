@@ -390,10 +390,10 @@ The integration of BERT-based semantic matching significantly improves candidate
 ---
 # Team Members
 
-Shruti Bodkhe
-Mayuri Jagtap
-Shreya Madne
-Jayant Deshmukh
+- Shruti Bodkhe
+- Mayuri Jagtap
+- Shreya Madne
+- Jayant Deshmukh
 
 Bachelor of Technology (Computer Science Engineering)
 
